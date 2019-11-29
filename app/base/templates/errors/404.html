@@ -1,0 +1,48 @@
+{% extends "base-site-fullscreen.html" %}
+
+{% block title %} Error 404 {% endblock %}
+
+{% block content %}
+
+<div class="login-page">
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                    <div class="header-text text-center">
+
+                        <h2 class="card-title">
+                            Error 404
+                        </h2>
+                        <hr />
+                        <h4 class="card-subtitle">
+                            Page not found - <a href="/">Home</a>
+                        </h4>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    {% include 'site_template/footer-fullscreen.html' %}
+    
+</div>
+
+{% endblock content %}
+
+{% block javascripts %}
+
+<script>
+    $(document).ready(function() {
+        demo.checkFullPageBackgroundImage();
+
+        setTimeout(function() {
+            // after 1000 ms we add the class animated to the login/register card
+            $('.card').removeClass('card-hidden');
+        }, 700)
+    });
+</script>
+    
+{% endblock %}
