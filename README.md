@@ -9,7 +9,7 @@
 - Forms validation
 - Unitary tests
 - Deployment scripts: Docker, Gunicorn
-- UI Kit: **Paper Dashboard Pro** provided by **Creative-Tim**
+- UI Kit: **Sleek Dashboard** by [Abdus](http://www.iamabdus.com/)
 
 <br />
 
