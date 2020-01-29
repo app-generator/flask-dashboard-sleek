@@ -1,6 +1,6 @@
 # [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Sleek Dashboard** design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ### Dashboard Features:
 
