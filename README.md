@@ -1,6 +1,8 @@
 # [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-sleek)** coded in **Flask Framework** on top of **Sleek Dashboard** design. **Features**:
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Sleek Dashboard** design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+**Features**:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -114,4 +116,4 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - provided by **AppSeed**
+[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
