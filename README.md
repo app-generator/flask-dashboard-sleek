@@ -2,7 +2,7 @@
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Sleek Dashboard** design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-**Features**:
+### Dashboard Features:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
