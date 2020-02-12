@@ -9,7 +9,7 @@
       <div class="card">
         <div class="card-header bg-primary">
           <div class="app-brand">
-            <a href="/index.html">
+            <a href="https://appseed.us/admin-dashboards/flask-dashboard-sleek">
               <svg class="brand-icon" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="30"
                 height="33" viewBox="0 0 30 33">
                 <g fill="none" fill-rule="evenodd">
@@ -17,7 +17,7 @@
                   <path class="logo-fill-white" fill="#FFF" d="M11 4v25l8 4V0z" />
                 </g>
               </svg>
-              <span class="brand-name">Sleek Dashboard</span>
+              <span class="brand-name">Flask Sleek</span>
             </a>
           </div>
         </div>
@@ -27,7 +27,9 @@
               {% if msg %}
                 {{ msg | safe }}
               {% else %}
-                Sign In
+                  Add your credentials OR  
+                  <br />
+                  <a href={{ url_for('base_blueprint.login') }}>authenticate</a> using an existing account.
               {% endif %}               
             </h4>
               
