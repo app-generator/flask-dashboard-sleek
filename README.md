@@ -15,6 +15,15 @@
 
 <br />
 
+## Dashboard Links
+
+- [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - the product page
+- [Flask Dashboard Sleek](https://docs.appseed.us/admin-dashboards/flask-dashboard-sleek/) - the source code
+- [Flask Dashboard Sleek](https://flask-dashboard-sleek.appseed.us/login) - LIVE Demo
+- [Flask Dashboard Sleek](https://www.youtube.com/watch?v=JKSNcLhkMrI) - yTube presentation
+
+<br />
+
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
