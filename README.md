@@ -7,8 +7,7 @@
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
+- Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn
 - UI Kit: **[Sleek Dashboard](https://flask-dashboard-sleek.appseed.us/login)** (Free version) provided by **TafCoder**
 - **MIT License**
