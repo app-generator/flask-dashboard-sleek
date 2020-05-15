@@ -12,9 +12,7 @@
 - Free support via **Github** 
 - Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
-<br />
-
-## Dashboard Links
+> Links
 
 - [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - the product page
 - [Flask Dashboard Sleek](https://docs.appseed.us/admin-dashboards/flask-dashboard-sleek/) - Documentation
