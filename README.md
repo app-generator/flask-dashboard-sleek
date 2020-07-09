@@ -1,4 +1,4 @@
-# [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek)
+# [Flask Dashboard - Sleek Design](https://appseed.us/admin-dashboards/flask-dashboard-sleek)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,11 +14,11 @@
 
 > Links
 
-- [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - the product page
-- [Flask Dashboard Sleek](https://docs.appseed.us/admin-dashboards/flask-dashboard-sleek/) - Documentation
-- [Flask Dashboard Sleek](https://flask-dashboard-sleek.appseed.us/login) - LIVE Demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Sleek Design](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Product page
+- [Flask Dashboard Sleek Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-sleek/) - Documentation
+- [Flask Dashboard Sleek Demo](https://flask-dashboard-sleek.appseed.us/login) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -172,4 +172,4 @@ Sleek admin dashboard delivers a bunch of responsive, customizable, and reusable
 <br />
 
 ---
-[Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Sleek Design](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
