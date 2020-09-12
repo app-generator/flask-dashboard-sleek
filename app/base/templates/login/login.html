@@ -29,8 +29,6 @@
               {% else %}
               <span>
                 Use default credentials: test / pass
-                <br />
-                OR <a href={{ url_for('base_blueprint.create_user') }} >create your own user</a>
               </span>              
               {% endif %}               
             </h4>
@@ -41,10 +39,10 @@
   
               <div class="row">
                 <div class="form-group col-md-12 mb-4">
-                  {{ form.username(placeholder="Username", class="form-control input-lg") }}
+                  <input class="form-control input-lg" placeholder="Username" type="text" name="username" value="test">
                 </div>
                 <div class="form-group col-md-12 ">
-                  {{ form.password(placeholder="Password", class="form-control input-lg", type="password") }}
+                  <input class="form-control input-lg" placeholder="Password" type="password" name="password" value="pass">
                 </div>
                 <div class="col-md-12">
                   <div class="d-flex my-2 justify-content-between">
