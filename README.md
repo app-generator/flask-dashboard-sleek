@@ -174,4 +174,4 @@ Sleek admin dashboard delivers a bunch of responsive, customizable, and reusable
 <br />
 
 ---
-[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Sleek Design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Sleek Design - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
