@@ -21,6 +21,7 @@ Sleek admin dashboard delivers a bunch of responsive, customizable, and reusable
 
 - [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - Product page
 - [Flask Dashboard Sleek Demo](https://flask-dashboard-sleek.appseed.us/login) - LIVE App
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
